@@ -1,0 +1,25 @@
+.content {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+
+.cont {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.dates {
+    width: calc(100% / 3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.images {
+    width: 200px;
+}
